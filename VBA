@@ -1,0 +1,11 @@
+
+Sub main()
+
+Dim start As Date '
+start = Timer
+
+For I = 1 To 10
+Debug.Print I
+Next
+
+End Sub
